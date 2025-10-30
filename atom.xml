@@ -6,7 +6,7 @@
   <link href="https://cheerfulli.github.io/atom.xml" rel="self"/>
   
   <link href="https://cheerfulli.github.io/"/>
-  <updated>2025-10-28T07:16:22.774Z</updated>
+  <updated>2025-10-30T11:12:21.498Z</updated>
   <id>https://cheerfulli.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CoopTrack：探索高效协作顺序感知的端到端学习</title>
+    <link href="https://cheerfulli.github.io/p/dcf82603.html"/>
+    <id>https://cheerfulli.github.io/p/dcf82603.html</id>
+    <published>2025-10-30T11:07:35.000Z</published>
+    <updated>2025-10-30T11:12:21.498Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="-协同感知" scheme="https://cheerfulli.github.io/categories/%E5%8D%8F%E5%90%8C%E6%84%9F%E7%9F%A5/"/>
+    
+    
+    <category term="-目标跟踪" scheme="https://cheerfulli.github.io/tags/%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>git学习</title>
