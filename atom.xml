@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Li Feng&#39;s Code World</title>
+  
+  
+  <link href="https://cheerfulli.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cheerfulli.github.io/"/>
+  <updated>2025-10-28T07:16:22.774Z</updated>
+  <id>https://cheerfulli.github.io/</id>
+  
+  <author>
+    <name>cheerfuli</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git学习</title>
+    <link href="https://cheerfulli.github.io/p/e28ceec1.html"/>
+    <id>https://cheerfulli.github.io/p/e28ceec1.html</id>
+    <published>2025-10-28T05:46:56.000Z</published>
+    <updated>2025-10-28T07:16:22.774Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SSH+Git+Vscode&lt;/strong&gt;基本操作&lt;/p&gt;
+&lt;p&gt;SSH连接&lt;/p&gt;
+&lt;p&gt;生成公钥和私钥，将公钥存储到github&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客美化</title>
+    <link href="https://cheerfulli.github.io/p/560e8e48.html"/>
+    <id>https://cheerfulli.github.io/p/560e8e48.html</id>
+    <published>2025-10-25T12:17:15.000Z</published>
+    <updated>2025-10-27T08:34:53.696Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.r1ce.cn/aa98fabcce67/&quot;&gt;Hexo博客之Butterfly主题配置及美化 | Yime’s Blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
